@@ -1,0 +1,26 @@
+h1 {
+    color: orangered;
+    font-size: 16px;
+}
+
+* {
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: black;
+
+}
+
+#caixa1 {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+}
+#caixa2{
+    background-color: rgb(255, 7, 7);
+    height: 100px;
+    width: 100px;
+}
